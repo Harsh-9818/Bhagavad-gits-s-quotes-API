@@ -1,0 +1,10 @@
+{
+  "name": "random-motivational-quotes-api",
+  "version": "1.0.0",
+  "description": "Random Motivational Quotes API for Vercel",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "author": "Harsh Tanwar",
+  "license": "MIT"
+}
